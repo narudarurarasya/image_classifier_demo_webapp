@@ -3,6 +3,7 @@ channels:
 - fastai
 - defaults
 dependencies:
+- python==3.8.2
 - fastai==2.0.13
 - pillow
 - voila
