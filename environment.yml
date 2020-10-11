@@ -1,0 +1,9 @@
+name: food_image_classifier_demo
+channels:
+    - fastai
+    - defaults
+dependencies:
+  - python>=3.8
+  - pip
+  - pip:
+    - -r file:requirements.txt
