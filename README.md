@@ -1,2 +1,2 @@
-# image_classifier_demo_webapp
-webapp created from Jupyter Notebook &amp; Voilà that classifies images
+# image classifier demo webapp
+webapp created from Jupyter Notebook &amp; [Voilà](https://github.com/voila-dashboards/voila) that classifies images
